@@ -1,0 +1,27 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  margin: 0;
+ background-image: url('bi2.jpg');
+}
+.he
+{
+font-size: 100%;
+border :1px solid black;
+padding:2px 2px 2px 2px;
+margin:5px 5px 5px 5px;
+font-family: Comic Sans MS;
+}
+
+.his
+{
+font-size: 200%;
+margin:5px 5px 5px 5px;
+}
+.hit
+{
+margin:5px 5px 5px 5px;
+}
+.f
+{font-size:100%;
+margin:5px 5px 5px 5px;
+}
